@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\bin\Debug\net9.0\GradGateway.Application.deps.json
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\bin\Debug\net9.0\GradGateway.Application.dll
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\bin\Debug\net9.0\GradGateway.Application.pdb
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\bin\Debug\net9.0\GradGateway.Domain.dll
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\bin\Debug\net9.0\GradGateway.Domain.pdb
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\obj\Debug\net9.0\GradGateway.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\obj\Debug\net9.0\GradGateway.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\obj\Debug\net9.0\GradGateway.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\obj\Debug\net9.0\GradGateway.Application.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\obj\Debug\net9.0\GradGateway.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\obj\Debug\net9.0\GradGate.E896DA05.Up2Date
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\obj\Debug\net9.0\GradGateway.Application.dll
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\obj\Debug\net9.0\refint\GradGateway.Application.dll
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\obj\Debug\net9.0\GradGateway.Application.pdb
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Application\obj\Debug\net9.0\ref\GradGateway.Application.dll

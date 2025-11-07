@@ -1,0 +1,17 @@
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\bin\Debug\net9.0\GradGateway.Infrastructure.deps.json
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\bin\Debug\net9.0\GradGateway.Infrastructure.dll
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\bin\Debug\net9.0\GradGateway.Infrastructure.pdb
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\bin\Debug\net9.0\GradGateway.Application.dll
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\bin\Debug\net9.0\GradGateway.Domain.dll
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\bin\Debug\net9.0\GradGateway.Application.pdb
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\bin\Debug\net9.0\GradGateway.Domain.pdb
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\obj\Debug\net9.0\GradGateway.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\obj\Debug\net9.0\GradGateway.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\obj\Debug\net9.0\GradGateway.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\obj\Debug\net9.0\GradGateway.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\obj\Debug\net9.0\GradGateway.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\obj\Debug\net9.0\GradGate.56D18C7B.Up2Date
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\obj\Debug\net9.0\GradGateway.Infrastructure.dll
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\obj\Debug\net9.0\refint\GradGateway.Infrastructure.dll
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\obj\Debug\net9.0\GradGateway.Infrastructure.pdb
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Infrastructure\obj\Debug\net9.0\ref\GradGateway.Infrastructure.dll

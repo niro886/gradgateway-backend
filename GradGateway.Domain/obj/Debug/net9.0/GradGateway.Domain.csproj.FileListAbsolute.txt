@@ -1,0 +1,11 @@
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Domain\bin\Debug\net9.0\GradGateway.Domain.deps.json
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Domain\bin\Debug\net9.0\GradGateway.Domain.dll
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Domain\bin\Debug\net9.0\GradGateway.Domain.pdb
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Domain\obj\Debug\net9.0\GradGateway.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Domain\obj\Debug\net9.0\GradGateway.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Domain\obj\Debug\net9.0\GradGateway.Domain.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Domain\obj\Debug\net9.0\GradGateway.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Domain\obj\Debug\net9.0\GradGateway.Domain.dll
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Domain\obj\Debug\net9.0\refint\GradGateway.Domain.dll
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Domain\obj\Debug\net9.0\GradGateway.Domain.pdb
+C:\Users\DELL\OneDrive\Desktop\GradGateway.lk\backend\GradGateway.Backend\GradGateway.Domain\obj\Debug\net9.0\ref\GradGateway.Domain.dll

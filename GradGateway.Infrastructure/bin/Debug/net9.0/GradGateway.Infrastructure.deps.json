@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GradGateway.Infrastructure/1.0.0": {
+        "dependencies": {
+          "GradGateway.Application": "1.0.0",
+          "GradGateway.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GradGateway.Infrastructure.dll": {}
+        }
+      },
+      "GradGateway.Application/1.0.0": {
+        "dependencies": {
+          "GradGateway.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GradGateway.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "GradGateway.Domain/1.0.0": {
+        "runtime": {
+          "GradGateway.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GradGateway.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GradGateway.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GradGateway.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
